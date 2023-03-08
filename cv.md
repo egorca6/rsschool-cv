@@ -1,4 +1,6 @@
 ## **Yahor Tsytsarkin**
+
+![Текст с описанием картинки](photo.jpg)
 ____
 ### Contact info
 
@@ -42,3 +44,12 @@ console.log(stray([1,1,2]))
 
 ## work experience
 I made a calculator in JavaScript that accepts both Arabic and Roman numerals.
+https://github.com/egorca6/calculator
+____
+## Education
+* University: Francysk Skaryna Gomel State University
+* Course: it-academy(HTML, CSS, JS, Git)
+___
+
+## English 
+* Pre-Intermediate A2( practiced English when I worked in the United States under the Work & Travel program)
