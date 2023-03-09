@@ -1,1 +1,1 @@
-https://egorca6.github.io/rsschool-cv/cv
+https://egorca6.github.io/rsschool-cv/
